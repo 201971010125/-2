@@ -1,0 +1,14 @@
+******* 10 Inverse strongly correlated instances of D{0-1}KP ********
+IDKP0:
+The diemnsion is d=3*2,  the cubage of knapsack is 100.
+The profit of itmes are:
+400,92,1329,11,998,1009,
+The weight of itmes are:
+500,102,1321,111,1098,1196,
+1922-334 1588
+IDKP1:
+The diemnsion is d=3*11,  the cubage of knapsack is 6000.
+The profit of itmes are:
+400,92,1329,11,998,1009,104,839,943,299,374,673,703,954,1657,425,950,1375,430,541,971,332,483,815,654,706,1360,956,992,1948,228,435,663,
+The weight of itmes are:
+500,102,1321,111,1098,1196,204,939,1107,399,474,719,803,1054,1781,525,1050,1362,530,641,903,432,583,894,754,806,1241,1056,1092,1545,328,535,579,******* The end *********
